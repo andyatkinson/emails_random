@@ -10,6 +10,8 @@ ruby emails.rb emails_sample.txt | head -n 3
 
 ## Book Drawings
 
+See past book contests: <https://andyatkinson.com/book-contest>
+
 This script is used for online book drawings, and each drawing is recorded and shared on Loom. See below.
 
 - Rails World 2024 Day 1: <https://www.loom.com/share/d2adfe532a7d4c018b0a4d9323540a50>
